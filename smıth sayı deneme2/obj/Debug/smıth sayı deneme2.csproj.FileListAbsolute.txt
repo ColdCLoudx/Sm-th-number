@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\c# kodları\smıth sayı deneme2\smıth sayı deneme2\bin\Debug\smıth sayı deneme2.exe.config
+C:\Users\Pc\Desktop\c# kodları\smıth sayı deneme2\smıth sayı deneme2\bin\Debug\smıth sayı deneme2.exe
+C:\Users\Pc\Desktop\c# kodları\smıth sayı deneme2\smıth sayı deneme2\bin\Debug\smıth sayı deneme2.pdb
+C:\Users\Pc\Desktop\c# kodları\smıth sayı deneme2\smıth sayı deneme2\obj\Debug\smıth sayı deneme2.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\c# kodları\smıth sayı deneme2\smıth sayı deneme2\obj\Debug\smıth sayı deneme2.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\c# kodları\smıth sayı deneme2\smıth sayı deneme2\obj\Debug\smıth sayı deneme2.exe
+C:\Users\Pc\Desktop\c# kodları\smıth sayı deneme2\smıth sayı deneme2\obj\Debug\smıth sayı deneme2.pdb
